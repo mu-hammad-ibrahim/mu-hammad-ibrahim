@@ -35,7 +35,7 @@ I'm a **Full Stack .NET Developer** passionate about crafting efficient ERP syst
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/assets/github-snake-dark.svg">
-    <img src="/assets/github-snake.svg" alt="snake" style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);">
+    <img src="/assets/github-snake.svg" alt="snake"  width="100%">
   </picture>
 </p>
 
