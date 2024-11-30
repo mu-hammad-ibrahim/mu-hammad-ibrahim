@@ -1,5 +1,7 @@
 <p align="center">
+<a href="https://mu-hammad-ibrahim.vercel.app/">
   <img src="https://raw.githubusercontent.com/mu-hammad-ibrahim/mu-hammad-ibrahim/refs/heads/main/assets/GitHub.gif" alt="Welcome Banner" width="100%">
+  </a>
 </p>
 
 ---
@@ -26,6 +28,15 @@ I'm a **Full Stack .NET Developer** passionate about crafting efficient ERP syst
   <img src="https://img.shields.io/badge/-AngularJS-DD0031?style=for-the-badge&logo=angularjs&logoColor=white" alt="AngularJS">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/assets/github-snake-dark.svg">
+    <img src="/assets/github-snake.svg" alt="snake" style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);">
+  </picture>
 </p>
 
 ---
