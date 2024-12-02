@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://mu-hammad-ibrahim.vercel.app/">
+<a href="https://mu-hammad-ibrahim.vercel.app/" target="_blank">
   <img src="https://raw.githubusercontent.com/mu-hammad-ibrahim/mu-hammad-ibrahim/refs/heads/main/assets/GitHub.gif" alt="Welcome Banner" width="100%">
   </a>
 </p>
